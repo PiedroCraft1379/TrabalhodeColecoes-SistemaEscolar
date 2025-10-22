@@ -1,0 +1,26 @@
+RELATÓRIO ESCOLAR
+=================
+
+Estudantes (ordenados):
+2025001 - Ana Silva
+  Disciplina: MAT101, Notas: [8.5, 7.0], Média: 7,75
+  Disciplina: POR101, Notas: [9.0], Média: 9,00
+  Média geral: 8,38
+
+2025002 - Bruno Costa
+  Disciplina: MAT101, Notas: [6.0], Média: 6,00
+  Disciplina: FIS101, Notas: [7.5], Média: 7,50
+  Média geral: 6,75
+
+2025003 - Carla Souza
+  Disciplina: POR101, Notas: [5.5, 6.0], Média: 5,75
+  Média geral: 5,75
+
+Médias por disciplina:
+FIS101 - Física -> Média: 7,50
+MAT101 - Matemática -> Média: 6,88
+POR101 - Português -> Média: 7,38
+
+Estudantes aprovados (média >= 6,00):
+2025001 - Ana Silva (média 8,38)
+2025002 - Bruno Costa (média 6,75)
